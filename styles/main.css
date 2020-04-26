@@ -730,6 +730,9 @@ div p {
     .cookie-p {
         font-size: 14px;
     }
+    .cookie-wrap {
+        margin-right: 20px;
+    }
     .cookie-action .btn{
         font-size: 15px;
         padding: 3px 20px;
