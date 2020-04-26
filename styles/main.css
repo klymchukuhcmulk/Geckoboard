@@ -723,6 +723,13 @@ div p {
         -webkit-box-shadow: none;
         box-shadow: none;
     }
+    .cookie {
+        height: 150px;
+        padding-bottom: 0;
+    }
+    .cookie-p {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 1200px) {
