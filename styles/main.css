@@ -724,11 +724,14 @@ div p {
         box-shadow: none;
     }
     .cookie {
-        height: 150px;
+        height: 160px;
         padding-bottom: 0;
     }
     .cookie-p {
         font-size: 14px;
+    }
+    .cookie-action .btn{
+        font-size: 15px;
     }
 }
 
